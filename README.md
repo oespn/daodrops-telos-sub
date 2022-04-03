@@ -11,7 +11,7 @@ This repository contains simplified & refactored code for demonstration purposes
 - Subset of DAO Dashboard dApp 
 - Smart Contracts 
 - Sample data
-- POC User facing mobile dApp (iOS).
+- POC User facing mobile dApp (iOS) [Repo here(https://github.com/oespn/daodrops)] .
 
 ### Functionality
 
