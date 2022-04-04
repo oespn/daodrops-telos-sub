@@ -8,10 +8,9 @@ This tool is a subset of the amaDAO platform which enriches wallet account data 
 DAO Drops has been developed in parallel with the (currently) closed source amaDAO.io platform.\
 \
 This repository contains simplified & refactored code for demonstration purposes:
-- Subset of DAO Dashboard dApp 
+- Subset of DAO Dashboard dApp [https://github.com/oespn/daodrops-dash-telos-sub (Repo here)]
 - Smart Contracts 
-- Sample data
-- POC User facing mobile dApp (iOS) [Repo here(https://github.com/oespn/daodrops)] .
+- POC User facing mobile dApp (iOS) [https://github.com/oespn/daodrops (Repo here)].
 
 ### Functionality
 
@@ -22,8 +21,10 @@ DAOs will use the full amaDAO dApp to notity the community of bounties, offers a
 
 The DAO Dashboard accepts CSV files of account addresses (from whitelist export eg: ethersan)  
 Target Lists can be built upon to create an Airdrop for a new Token issuance.    
+We've included a demo account with sample data linked to amaDAO (50 top contributors in over 100 DAOs)
 Performing an Airdrop will generate an ERC-20 token on the Telos EVM.
 \
   
 
 *Submission for Telos Spark hackathon April 3rd 2022.*
+Note: repos separated (see links) to fix issue with Vercel handling multiple projects.
